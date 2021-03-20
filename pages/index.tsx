@@ -1,23 +1,26 @@
-import { useState } from "react";
-import { NextPage } from "next"
-import Dropzone from 'react-dropzone';
-import axios from 'axios';
-import { ResponseBody as ImageUploadResponseBody, ResponseBody } from "./api/hello";
+import { useState } from 'react'
+import { NextPage } from 'next'
+import Dropzone from 'react-dropzone'
+import axios from 'axios'
+import { ResponseBody as ImageUploadResponseBody } from './api/hello'
 
 const Home: NextPage = () => {
-
-  const [textData, setTextData] = useState('');
+  const [textData, setTextData] = useState('')
 
   const handleOnDrop = (acceptedFiles: File[]) => {
     acceptedFiles.map(async file => {
-      const formData = new FormData();
+      const formData = new FormData()
       formData.append('file', file)
       try {
-        const res = await axios.post<ImageUploadResponseBody>('/api/hello', formData, {
-          headers: {
-            'content-type': 'multipart/form-data'
+        const res = await axios.post<ImageUploadResponseBody>(
+          '/api/hello',
+          formData,
+          {
+            headers: {
+              'content-type': 'multipart/form-data',
+            },
           }
-        })
+        )
         setTextData(JSON.stringify(res.data.images))
       } catch (e) {
         console.error(`[Error occured] ${e.message}`)
@@ -28,7 +31,7 @@ const Home: NextPage = () => {
   return (
     <>
       <Dropzone onDrop={handleOnDrop}>
-        {({getRootProps, getInputProps}) => (
+        {({ getRootProps, getInputProps }) => (
           <section>
             <div {...getRootProps()}>
               <input {...getInputProps()} />
@@ -42,4 +45,4 @@ const Home: NextPage = () => {
   )
 }
 
-export default Home;
+export default Home
