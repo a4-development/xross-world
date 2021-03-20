@@ -36,7 +36,7 @@ const apiRoute = nextConnect()
       }
       const puzzleData = Object.keys(textDictionary)
         .slice(0, 20)
-        .map((t, i) => ({ ...dummyData, id: i }))
+        .map((_, i) => ({ ...dummyData, id: i }))
       /** End of TODO */
 
       const blindfoldVertexes = puzzleData.map(
@@ -45,7 +45,7 @@ const apiRoute = nextConnect()
 
       processBlindfold(blindfoldVertexes, file)
 
-      res.status(200).json(data)
+      res.status(200).json(puzzleData)
     } catch (e) {
       res.status(400).json({ message: e })
     }

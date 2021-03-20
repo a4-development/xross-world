@@ -2,8 +2,9 @@ import sizeOf from 'buffer-image-size'
 import sharp from 'sharp'
 import fs from 'fs'
 
-import { TextDictionary } from '../mapper/create-text-dictionary'
 import { Vertex } from './process-ocr'
+
+const DESTINATION = 'public/generated'
 
 // TODO: Process multi images (multi EmbeddedImage and multi Express.Multer.File)
 export default (
@@ -12,10 +13,8 @@ export default (
 ) => {
   const { width, height } = sizeOf(buffer)
 
-  const destination = process.env.UPLOAD_FILE_DESTINATION ?? 'out'
-
-  if (!fs.existsSync(destination)) {
-    fs.mkdir(destination, { recursive: true }, err => {
+  if (!fs.existsSync(DESTINATION)) {
+    fs.mkdir(DESTINATION, { recursive: true }, err => {
       if (err) {
         throw err
       }
@@ -32,7 +31,7 @@ export default (
         `),
       },
     ])
-    .toFile(`${destination}/${originalname}`)
+    .toFile(`${DESTINATION}/${originalname}`)
 }
 
 // Like <polygon points="0,0 10,0 10,10 0,10" />
