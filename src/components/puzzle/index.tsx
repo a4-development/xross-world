@@ -13,7 +13,6 @@ const TableWrapper = styled.div`
 `
 
 const Cell = styled.td`
-  background-color: ${(props) => props.block ? 'black' : 'white'};
   padding: 4px;
 `
 
@@ -72,7 +71,7 @@ const Puzzle: NextPage = () => {
             {tableData.map((tr, i) => (
               <tr key={i}>
                 {tr.map((td, j) => (
-                  <Cell key={j} block={td === ''}>
+                  <Cell key={j}>
                     {visibleTexts ? td : ''}
                   </Cell>
                 ))}
