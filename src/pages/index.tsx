@@ -2,7 +2,8 @@ import { useState } from 'react'
 import { NextPage } from 'next'
 import Dropzone from 'react-dropzone'
 import axios from 'axios'
-import { ResponseBody as ImageUploadResponseBody } from './api/hello'
+
+import { ResponseBody as ImageUploadResponseBody } from './api/puzzle'
 
 const Home: NextPage = () => {
   const [textData, setTextData] = useState('')
@@ -12,8 +13,8 @@ const Home: NextPage = () => {
       const formData = new FormData()
       formData.append('file', file)
       try {
-        const res = await axios.post<ImageUploadResponseBody>(
-          '/api/hello',
+        const { data } = await axios.post<ImageUploadResponseBody>(
+          '/api/puzzle',
           formData,
           {
             headers: {
@@ -21,7 +22,7 @@ const Home: NextPage = () => {
             },
           }
         )
-        setTextData(JSON.stringify(res.data.images))
+        setTextData(JSON.stringify(data))
       } catch (e) {
         console.error(`[Error occured] ${e.message}`)
       }

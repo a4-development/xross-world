@@ -1,0 +1,6498 @@
+{
+  "version": "V2",
+  "requestId": "54f54f9d-a992-4370-837d-b8f888114e51",
+  "timestamp": 1616241011354,
+  "images": [
+    {
+      "uid": "1ad96c44441146999b27c3a337fae3cd",
+      "name": "チラシ.jpg",
+      "inferResult": "SUCCESS",
+      "message": "SUCCESS",
+      "validationResult": {
+        "result": "NO_REQUESTED"
+      },
+      "fields": [
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 204,
+                "y": 2
+              },
+              {
+                "x": 414,
+                "y": 2
+              },
+              {
+                "x": 414,
+                "y": 17
+              },
+              {
+                "x": 204,
+                "y": 17
+              }
+            ]
+          },
+          "inferText": "毎週火曜日はポイント2倍+88円セール",
+          "inferConfidence": 0.905,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 413,
+                "y": 2
+              },
+              {
+                "x": 561,
+                "y": 2
+              },
+              {
+                "x": 561,
+                "y": 16
+              },
+              {
+                "x": 413,
+                "y": 16
+              }
+            ]
+          },
+          "inferText": "毎週金曜日はポイント5倍の日!",
+          "inferConfidence": 0.9937,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 576,
+                "y": 6
+              },
+              {
+                "x": 621,
+                "y": 6
+              },
+              {
+                "x": 621,
+                "y": 15
+              },
+              {
+                "x": 576,
+                "y": 15
+              }
+            ]
+          },
+          "inferText": "セール期間",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 627,
+                "y": 6
+              },
+              {
+                "x": 713,
+                "y": 6
+              },
+              {
+                "x": 713,
+                "y": 15
+              },
+              {
+                "x": 627,
+                "y": 15
+              }
+            ]
+          },
+          "inferText": "3/24(火)~3/27()",
+          "inferConfidence": 0.7069,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 719,
+                "y": 7
+              },
+              {
+                "x": 741,
+                "y": 7
+              },
+              {
+                "x": 741,
+                "y": 13
+              },
+              {
+                "x": 719,
+                "y": 13
+              }
+            ]
+          },
+          "inferText": "営業時間",
+          "inferConfidence": 0.8465,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 746,
+                "y": 6
+              },
+              {
+                "x": 791,
+                "y": 6
+              },
+              {
+                "x": 791,
+                "y": 14
+              },
+              {
+                "x": 746,
+                "y": 14
+              }
+            ]
+          },
+          "inferText": "10時~20時",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 178,
+                "y": 29
+              },
+              {
+                "x": 238,
+                "y": 20
+              },
+              {
+                "x": 240,
+                "y": 31
+              },
+              {
+                "x": 180,
+                "y": 40
+              }
+            ]
+          },
+          "inferText": "~3/27(金)",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 262,
+                "y": 18
+              },
+              {
+                "x": 659,
+                "y": 16
+              },
+              {
+                "x": 659,
+                "y": 85
+              },
+              {
+                "x": 262,
+                "y": 87
+              }
+            ]
+          },
+          "inferText": "お肉の利益大還元祭!",
+          "inferConfidence": 0.9988,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 670,
+                "y": 25
+              },
+              {
+                "x": 694,
+                "y": 25
+              },
+              {
+                "x": 694,
+                "y": 38
+              },
+              {
+                "x": 670,
+                "y": 38
+              }
+            ]
+          },
+          "inferText": "家計",
+          "inferConfidence": 0.9992,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 726,
+                "y": 26
+              },
+              {
+                "x": 796,
+                "y": 17
+              },
+              {
+                "x": 797,
+                "y": 27
+              },
+              {
+                "x": 728,
+                "y": 36
+              }
+            ]
+          },
+          "inferText": "毎月9日19日29日",
+          "inferConfidence": 0.9916,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 103,
+                "y": 51
+              },
+              {
+                "x": 269,
+                "y": 29
+              },
+              {
+                "x": 275,
+                "y": 74
+              },
+              {
+                "x": 109,
+                "y": 96
+              }
+            ]
+          },
+          "inferText": "ーんと出します!",
+          "inferConfidence": 0.979,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 126,
+                "y": 36
+              },
+              {
+                "x": 161,
+                "y": 32
+              },
+              {
+                "x": 162,
+                "y": 44
+              },
+              {
+                "x": 127,
+                "y": 48
+              }
+            ]
+          },
+          "inferText": "3/24",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 160,
+                "y": 32
+              },
+              {
+                "x": 179,
+                "y": 32
+              },
+              {
+                "x": 179,
+                "y": 44
+              },
+              {
+                "x": 160,
+                "y": 44
+              }
+            ]
+          },
+          "inferText": "(火)",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 727,
+                "y": 36
+              },
+              {
+                "x": 797,
+                "y": 27
+              },
+              {
+                "x": 798,
+                "y": 37
+              },
+              {
+                "x": 728,
+                "y": 46
+              }
+            ]
+          },
+          "inferText": "お肉全品激安価格!",
+          "inferConfidence": 0.9091,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 666,
+                "y": 38
+              },
+              {
+                "x": 696,
+                "y": 38
+              },
+              {
+                "x": 696,
+                "y": 50
+              },
+              {
+                "x": 666,
+                "y": 50
+              }
+            ]
+          },
+          "inferText": "応援!",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 714,
+                "y": 60
+              },
+              {
+                "x": 738,
+                "y": 60
+              },
+              {
+                "x": 738,
+                "y": 76
+              },
+              {
+                "x": 714,
+                "y": 76
+              }
+            ]
+          },
+          "inferText": "3/29",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 737,
+                "y": 48
+              },
+              {
+                "x": 798,
+                "y": 40
+              },
+              {
+                "x": 802,
+                "y": 70
+              },
+              {
+                "x": 741,
+                "y": 78
+              }
+            ]
+          },
+          "inferText": "決算!",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 722,
+                "y": 85
+              },
+              {
+                "x": 771,
+                "y": 85
+              },
+              {
+                "x": 771,
+                "y": 446
+              },
+              {
+                "x": 722,
+                "y": 446
+              }
+            ]
+          },
+          "inferText": "ニュークイックの日",
+          "inferConfidence": 0.8395,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 495,
+                "y": 88
+              },
+              {
+                "x": 541,
+                "y": 88
+              },
+              {
+                "x": 541,
+                "y": 110
+              },
+              {
+                "x": 495,
+                "y": 110
+              }
+            ]
+          },
+          "inferText": "4日間",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 646,
+                "y": 88
+              },
+              {
+                "x": 688,
+                "y": 86
+              },
+              {
+                "x": 689,
+                "y": 104
+              },
+              {
+                "x": 647,
+                "y": 106
+              }
+            ]
+          },
+          "inferText": "4日間",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 770,
+                "y": 88
+              },
+              {
+                "x": 794,
+                "y": 88
+              },
+              {
+                "x": 794,
+                "y": 344
+              },
+              {
+                "x": 770,
+                "y": 344
+              }
+            ]
+          },
+          "inferText": "日本全国お肉の格安プライス!!",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 93
+              },
+              {
+                "x": 53,
+                "y": 93
+              },
+              {
+                "x": 53,
+                "y": 121
+              },
+              {
+                "x": 9,
+                "y": 121
+              }
+            ]
+          },
+          "inferText": "3/24",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 121
+              },
+              {
+                "x": 57,
+                "y": 117
+              },
+              {
+                "x": 60,
+                "y": 128
+              },
+              {
+                "x": 37,
+                "y": 133
+              }
+            ]
+          },
+          "inferText": "限り",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 69,
+                "y": 83
+              },
+              {
+                "x": 295,
+                "y": 98
+              },
+              {
+                "x": 293,
+                "y": 134
+              },
+              {
+                "x": 66,
+                "y": 119
+              }
+            ]
+          },
+          "inferText": "本日1日限りの大特価!売り切れ御免!!",
+          "inferConfidence": 0.9592,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 301,
+                "y": 97
+              },
+              {
+                "x": 339,
+                "y": 97
+              },
+              {
+                "x": 339,
+                "y": 122
+              },
+              {
+                "x": 301,
+                "y": 122
+              }
+            ]
+          },
+          "inferText": "3/24",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 351,
+                "y": 95
+              },
+              {
+                "x": 390,
+                "y": 95
+              },
+              {
+                "x": 390,
+                "y": 121
+              },
+              {
+                "x": 351,
+                "y": 121
+              }
+            ]
+          },
+          "inferText": "3/25",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 401,
+                "y": 94
+              },
+              {
+                "x": 441,
+                "y": 94
+              },
+              {
+                "x": 441,
+                "y": 120
+              },
+              {
+                "x": 401,
+                "y": 120
+              }
+            ]
+          },
+          "inferText": "3/26",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 452,
+                "y": 93
+              },
+              {
+                "x": 490,
+                "y": 93
+              },
+              {
+                "x": 490,
+                "y": 118
+              },
+              {
+                "x": 452,
+                "y": 118
+              }
+            ]
+          },
+          "inferText": "3/27",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 493,
+                "y": 107
+              },
+              {
+                "x": 581,
+                "y": 97
+              },
+              {
+                "x": 584,
+                "y": 122
+              },
+              {
+                "x": 496,
+                "y": 133
+              }
+            ]
+          },
+          "inferText": "ぶっ通し!!",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 581,
+                "y": 92
+              },
+              {
+                "x": 616,
+                "y": 92
+              },
+              {
+                "x": 616,
+                "y": 109
+              },
+              {
+                "x": 581,
+                "y": 109
+              }
+            ]
+          },
+          "inferText": "3/24~",
+          "inferConfidence": 0.9556,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 114
+              },
+              {
+                "x": 721,
+                "y": 114
+              },
+              {
+                "x": 721,
+                "y": 133
+              },
+              {
+                "x": 589,
+                "y": 133
+              }
+            ]
+          },
+          "inferText": "家計応援プライス!!",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 615,
+                "y": 85
+              },
+              {
+                "x": 651,
+                "y": 93
+              },
+              {
+                "x": 648,
+                "y": 111
+              },
+              {
+                "x": 611,
+                "y": 104
+              }
+            ]
+          },
+          "inferText": "3/270",
+          "inferConfidence": 0.995,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 661,
+                "y": 102
+              },
+              {
+                "x": 724,
+                "y": 93
+              },
+              {
+                "x": 726,
+                "y": 110
+              },
+              {
+                "x": 664,
+                "y": 119
+              }
+            ]
+          },
+          "inferText": "ぶっ通し!!",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 397,
+                "y": 135
+              },
+              {
+                "x": 579,
+                "y": 117
+              },
+              {
+                "x": 583,
+                "y": 152
+              },
+              {
+                "x": 401,
+                "y": 170
+              }
+            ]
+          },
+          "inferText": "ドッカーンセール!",
+          "inferConfidence": 0.9991,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 22,
+                "y": 122
+              },
+              {
+                "x": 35,
+                "y": 122
+              },
+              {
+                "x": 35,
+                "y": 134
+              },
+              {
+                "x": 22,
+                "y": 134
+              }
+            ]
+          },
+          "inferText": "火",
+          "inferConfidence": 0.9718,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 71,
+                "y": 103
+              },
+              {
+                "x": 289,
+                "y": 124
+              },
+              {
+                "x": 285,
+                "y": 157
+              },
+              {
+                "x": 67,
+                "y": 135
+              }
+            ]
+          },
+          "inferText": "スークイック指定Oシおいしさをご来店に!",
+          "inferConfidence": 0.7685,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 316,
+                "y": 122
+              },
+              {
+                "x": 329,
+                "y": 122
+              },
+              {
+                "x": 329,
+                "y": 134
+              },
+              {
+                "x": 316,
+                "y": 134
+              }
+            ]
+          },
+          "inferText": "R",
+          "inferConfidence": 0.7323,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 369,
+                "y": 124
+              },
+              {
+                "x": 376,
+                "y": 124
+              },
+              {
+                "x": 376,
+                "y": 130
+              },
+              {
+                "x": 369,
+                "y": 130
+              }
+            ]
+          },
+          "inferText": "水",
+          "inferConfidence": 0.8835,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 419,
+                "y": 120
+              },
+              {
+                "x": 429,
+                "y": 120
+              },
+              {
+                "x": 429,
+                "y": 129
+              },
+              {
+                "x": 419,
+                "y": 129
+              }
+            ]
+          },
+          "inferText": "*",
+          "inferConfidence": 0.6322,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 20,
+                "y": 127
+              },
+              {
+                "x": 283,
+                "y": 131
+              },
+              {
+                "x": 282,
+                "y": 193
+              },
+              {
+                "x": 19,
+                "y": 188
+              }
+            ]
+          },
+          "inferText": "国産豚肉半額セール!!",
+          "inferConfidence": 0.9988,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 45,
+                "y": 135
+              },
+              {
+                "x": 55,
+                "y": 135
+              },
+              {
+                "x": 55,
+                "y": 141
+              },
+              {
+                "x": 45,
+                "y": 141
+              }
+            ]
+          },
+          "inferText": "4%",
+          "inferConfidence": 0.6358,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 14,
+                "y": 146
+              },
+              {
+                "x": 35,
+                "y": 139
+              },
+              {
+                "x": 37,
+                "y": 145
+              },
+              {
+                "x": 16,
+                "y": 152
+              }
+            ]
+          },
+          "inferText": "長崎度·",
+          "inferConfidence": 0.8163,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 290,
+                "y": 143
+              },
+              {
+                "x": 386,
+                "y": 134
+              },
+              {
+                "x": 388,
+                "y": 165
+              },
+              {
+                "x": 293,
+                "y": 173
+              }
+            ]
+          },
+          "inferText": "ダイナマイト",
+          "inferConfidence": 0.9959,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 641,
+                "y": 145
+              },
+              {
+                "x": 680,
+                "y": 136
+              },
+              {
+                "x": 683,
+                "y": 152
+              },
+              {
+                "x": 645,
+                "y": 161
+              }
+            ]
+          },
+          "inferText": "うまい!",
+          "inferConfidence": 0.9899,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 584,
+                "y": 142
+              },
+              {
+                "x": 641,
+                "y": 142
+              },
+              {
+                "x": 641,
+                "y": 157
+              },
+              {
+                "x": 584,
+                "y": 157
+              }
+            ]
+          },
+          "inferText": "お惣菜が",
+          "inferConfidence": 0.9979,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 686,
+                "y": 143
+              },
+              {
+                "x": 716,
+                "y": 139
+              },
+              {
+                "x": 718,
+                "y": 155
+              },
+              {
+                "x": 688,
+                "y": 159
+              }
+            ]
+          },
+          "inferText": "安い!",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 521,
+                "y": 169
+              },
+              {
+                "x": 565,
+                "y": 169
+              },
+              {
+                "x": 565,
+                "y": 180
+              },
+              {
+                "x": 521,
+                "y": 180
+              }
+            ]
+          },
+          "inferText": "一例として!",
+          "inferConfidence": 0.9987,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 591,
+                "y": 174
+              },
+              {
+                "x": 719,
+                "y": 174
+              },
+              {
+                "x": 719,
+                "y": 188
+              },
+              {
+                "x": 591,
+                "y": 188
+              }
+            ]
+          },
+          "inferText": "大人気!家計支援サラダ",
+          "inferConfidence": 0.8823,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 126,
+                "y": 181
+              },
+              {
+                "x": 184,
+                "y": 181
+              },
+              {
+                "x": 184,
+                "y": 191
+              },
+              {
+                "x": 126,
+                "y": 191
+              }
+            ]
+          },
+          "inferText": "モモスライス",
+          "inferConfidence": 0.9951,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 296,
+                "y": 179
+              },
+              {
+                "x": 399,
+                "y": 179
+              },
+              {
+                "x": 399,
+                "y": 207
+              },
+              {
+                "x": 296,
+                "y": 207
+              }
+            ]
+          },
+          "inferText": "定額給付金",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 400,
+                "y": 181
+              },
+              {
+                "x": 425,
+                "y": 181
+              },
+              {
+                "x": 425,
+                "y": 206
+              },
+              {
+                "x": 400,
+                "y": 206
+              }
+            ]
+          },
+          "inferText": "祝",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 444,
+                "y": 184
+              },
+              {
+                "x": 494,
+                "y": 184
+              },
+              {
+                "x": 494,
+                "y": 196
+              },
+              {
+                "x": 444,
+                "y": 196
+              }
+            ]
+          },
+          "inferText": "和牛切り",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 499,
+                "y": 188
+              },
+              {
+                "x": 526,
+                "y": 188
+              },
+              {
+                "x": 526,
+                "y": 199
+              },
+              {
+                "x": 499,
+                "y": 199
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 524,
+                "y": 182
+              },
+              {
+                "x": 579,
+                "y": 182
+              },
+              {
+                "x": 579,
+                "y": 211
+              },
+              {
+                "x": 524,
+                "y": 211
+              }
+            ]
+          },
+          "inferText": "249円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 444,
+                "y": 196
+              },
+              {
+                "x": 499,
+                "y": 194
+              },
+              {
+                "x": 500,
+                "y": 206
+              },
+              {
+                "x": 444,
+                "y": 208
+              }
+            ]
+          },
+          "inferText": "落とし()",
+          "inferConfidence": 0.8404,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 651,
+                "y": 194
+              },
+              {
+                "x": 700,
+                "y": 194
+              },
+              {
+                "x": 700,
+                "y": 205
+              },
+              {
+                "x": 651,
+                "y": 205
+              }
+            ]
+          },
+          "inferText": "ポテトサラダ",
+          "inferConfidence": 0.949,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 201
+              },
+              {
+                "x": 141,
+                "y": 201
+              },
+              {
+                "x": 141,
+                "y": 213
+              },
+              {
+                "x": 114,
+                "y": 213
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 196
+              },
+              {
+                "x": 189,
+                "y": 196
+              },
+              {
+                "x": 189,
+                "y": 223
+              },
+              {
+                "x": 139,
+                "y": 223
+              }
+            ]
+          },
+          "inferText": "89円",
+          "inferConfidence": 0.9995,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 508,
+                "y": 201
+              },
+              {
+                "x": 516,
+                "y": 201
+              },
+              {
+                "x": 516,
+                "y": 205
+              },
+              {
+                "x": 508,
+                "y": 205
+              }
+            ]
+          },
+          "inferText": "do",
+          "inferConfidence": 0.8596,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 651,
+                "y": 204
+              },
+              {
+                "x": 709,
+                "y": 204
+              },
+              {
+                "x": 709,
+                "y": 215
+              },
+              {
+                "x": 651,
+                "y": 215
+              }
+            ]
+          },
+          "inferText": "マカロニサラダ",
+          "inferConfidence": 0.9994,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 42,
+                "y": 211
+              },
+              {
+                "x": 90,
+                "y": 211
+              },
+              {
+                "x": 90,
+                "y": 222
+              },
+              {
+                "x": 42,
+                "y": 222
+              }
+            ]
+          },
+          "inferText": "切り落とし",
+          "inferConfidence": 0.9983,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 89,
+                "y": 211
+              },
+              {
+                "x": 107,
+                "y": 211
+              },
+              {
+                "x": 107,
+                "y": 222
+              },
+              {
+                "x": 89,
+                "y": 222
+              }
+            ]
+          },
+          "inferText": "(5)",
+          "inferConfidence": 0.8623,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 214
+              },
+              {
+                "x": 131,
+                "y": 214
+              },
+              {
+                "x": 131,
+                "y": 218
+              },
+              {
+                "x": 120,
+                "y": 218
+              }
+            ]
+          },
+          "inferText": "THE",
+          "inferConfidence": 0.5731,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 203,
+                "y": 213
+              },
+              {
+                "x": 265,
+                "y": 213
+              },
+              {
+                "x": 265,
+                "y": 222
+              },
+              {
+                "x": 203,
+                "y": 222
+              }
+            ]
+          },
+          "inferText": "算出生かき用",
+          "inferConfidence": 0.4172,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 296,
+                "y": 209
+              },
+              {
+                "x": 392,
+                "y": 210
+              },
+              {
+                "x": 391,
+                "y": 229
+              },
+              {
+                "x": 296,
+                "y": 228
+              }
+            ]
+          },
+          "inferText": "うまいもん市",
+          "inferConfidence": 0.9635,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 651,
+                "y": 214
+              },
+              {
+                "x": 731,
+                "y": 214
+              },
+              {
+                "x": 731,
+                "y": 224
+              },
+              {
+                "x": 651,
+                "y": 224
+              }
+            ]
+          },
+          "inferText": "スパゲッティーサラダ",
+          "inferConfidence": 0.9662,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 409,
+                "y": 220
+              },
+              {
+                "x": 534,
+                "y": 220
+              },
+              {
+                "x": 534,
+                "y": 231
+              },
+              {
+                "x": 409,
+                "y": 231
+              }
+            ]
+          },
+          "inferText": "ニュークイックのおすすめ!黒毛和牛",
+          "inferConfidence": 0.9866,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 532,
+                "y": 221
+              },
+              {
+                "x": 558,
+                "y": 221
+              },
+              {
+                "x": 558,
+                "y": 229
+              },
+              {
+                "x": 532,
+                "y": 229
+              }
+            ]
+          },
+          "inferText": "(国産)",
+          "inferConfidence": 0.9114,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 651,
+                "y": 224
+              },
+              {
+                "x": 726,
+                "y": 224
+              },
+              {
+                "x": 726,
+                "y": 234
+              },
+              {
+                "x": 651,
+                "y": 234
+              }
+            ]
+          },
+          "inferText": "インゲンのごま和え",
+          "inferConfidence": 0.9956,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 231
+              },
+              {
+                "x": 59,
+                "y": 231
+              },
+              {
+                "x": 59,
+                "y": 242
+              },
+              {
+                "x": 34,
+                "y": 242
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 59,
+                "y": 226
+              },
+              {
+                "x": 109,
+                "y": 226
+              },
+              {
+                "x": 109,
+                "y": 254
+              },
+              {
+                "x": 59,
+                "y": 254
+              }
+            ]
+          },
+          "inferText": "69円",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 116,
+                "y": 230
+              },
+              {
+                "x": 122,
+                "y": 230
+              },
+              {
+                "x": 122,
+                "y": 239
+              },
+              {
+                "x": 116,
+                "y": 239
+              }
+            ]
+          },
+          "inferText": "F",
+          "inferConfidence": 0.5479,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 122,
+                "y": 229
+              },
+              {
+                "x": 186,
+                "y": 229
+              },
+              {
+                "x": 186,
+                "y": 239
+              },
+              {
+                "x": 122,
+                "y": 239
+              }
+            ]
+          },
+          "inferText": "草ももしゃぶしゃぶ用",
+          "inferConfidence": 0.809,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 194,
+                "y": 231
+              },
+              {
+                "x": 219,
+                "y": 231
+              },
+              {
+                "x": 219,
+                "y": 242
+              },
+              {
+                "x": 194,
+                "y": 242
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 218,
+                "y": 226
+              },
+              {
+                "x": 270,
+                "y": 228
+              },
+              {
+                "x": 269,
+                "y": 254
+              },
+              {
+                "x": 217,
+                "y": 252
+              }
+            ]
+          },
+          "inferText": "89円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 244
+              },
+              {
+                "x": 53,
+                "y": 244
+              },
+              {
+                "x": 53,
+                "y": 249
+              },
+              {
+                "x": 39,
+                "y": 249
+              }
+            ]
+          },
+          "inferText": "100",
+          "inferConfidence": 0.6969,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 304,
+                "y": 231
+              },
+              {
+                "x": 578,
+                "y": 231
+              },
+              {
+                "x": 578,
+                "y": 280
+              },
+              {
+                "x": 304,
+                "y": 280
+              }
+            ]
+          },
+          "inferText": "黒毛和牛半額市!!",
+          "inferConfidence": 0.9933,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 645,
+                "y": 234
+              },
+              {
+                "x": 723,
+                "y": 236
+              },
+              {
+                "x": 722,
+                "y": 271
+              },
+              {
+                "x": 644,
+                "y": 268
+              }
+            ]
+          },
+          "inferText": "78円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 242
+              },
+              {
+                "x": 192,
+                "y": 244
+              },
+              {
+                "x": 190,
+                "y": 272
+              },
+              {
+                "x": 138,
+                "y": 269
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 244
+              },
+              {
+                "x": 211,
+                "y": 244
+              },
+              {
+                "x": 211,
+                "y": 250
+              },
+              {
+                "x": 199,
+                "y": 250
+              }
+            ]
+          },
+          "inferText": "100",
+          "inferConfidence": 0.9928,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 248
+              },
+              {
+                "x": 141,
+                "y": 248
+              },
+              {
+                "x": 141,
+                "y": 260
+              },
+              {
+                "x": 114,
+                "y": 260
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 35,
+                "y": 261
+              },
+              {
+                "x": 41,
+                "y": 261
+              },
+              {
+                "x": 41,
+                "y": 270
+              },
+              {
+                "x": 35,
+                "y": 270
+              }
+            ]
+          },
+          "inferText": ":",
+          "inferConfidence": 0.5955,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 42,
+                "y": 261
+              },
+              {
+                "x": 104,
+                "y": 261
+              },
+              {
+                "x": 104,
+                "y": 270
+              },
+              {
+                "x": 42,
+                "y": 270
+              }
+            ]
+          },
+          "inferText": "yローススライス",
+          "inferConfidence": 0.9238,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 119,
+                "y": 261
+              },
+              {
+                "x": 134,
+                "y": 261
+              },
+              {
+                "x": 134,
+                "y": 266
+              },
+              {
+                "x": 119,
+                "y": 266
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9965,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 203,
+                "y": 259
+              },
+              {
+                "x": 264,
+                "y": 259
+              },
+              {
+                "x": 264,
+                "y": 270
+              },
+              {
+                "x": 203,
+                "y": 270
+              }
+            ]
+          },
+          "inferText": "肩ローススライス",
+          "inferConfidence": 0.9239,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 581,
+                "y": 253
+              },
+              {
+                "x": 651,
+                "y": 253
+              },
+              {
+                "x": 651,
+                "y": 267
+              },
+              {
+                "x": 581,
+                "y": 267
+              }
+            ]
+          },
+          "inferText": "オール100g",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 280
+              },
+              {
+                "x": 59,
+                "y": 280
+              },
+              {
+                "x": 59,
+                "y": 291
+              },
+              {
+                "x": 34,
+                "y": 291
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 59,
+                "y": 275
+              },
+              {
+                "x": 109,
+                "y": 275
+              },
+              {
+                "x": 109,
+                "y": 301
+              },
+              {
+                "x": 59,
+                "y": 301
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 116,
+                "y": 277
+              },
+              {
+                "x": 186,
+                "y": 277
+              },
+              {
+                "x": 186,
+                "y": 286
+              },
+              {
+                "x": 116,
+                "y": 286
+              }
+            ]
+          },
+          "inferText": "付スペアリブ(型)",
+          "inferConfidence": 0.7168,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 192,
+                "y": 279
+              },
+              {
+                "x": 221,
+                "y": 279
+              },
+              {
+                "x": 221,
+                "y": 291
+              },
+              {
+                "x": 192,
+                "y": 291
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 219,
+                "y": 274
+              },
+              {
+                "x": 270,
+                "y": 274
+              },
+              {
+                "x": 270,
+                "y": 302
+              },
+              {
+                "x": 219,
+                "y": 302
+              }
+            ]
+          },
+          "inferText": "109円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 591,
+                "y": 274
+              },
+              {
+                "x": 718,
+                "y": 274
+              },
+              {
+                "x": 718,
+                "y": 287
+              },
+              {
+                "x": 591,
+                "y": 287
+              }
+            ]
+          },
+          "inferText": "びっくり!!限定プライス",
+          "inferConfidence": 0.9719,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 292
+              },
+              {
+                "x": 50,
+                "y": 292
+              },
+              {
+                "x": 50,
+                "y": 296
+              },
+              {
+                "x": 39,
+                "y": 296
+              }
+            ]
+          },
+          "inferText": "time",
+          "inferConfidence": 0.576,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 292
+              },
+              {
+                "x": 189,
+                "y": 292
+              },
+              {
+                "x": 189,
+                "y": 319
+              },
+              {
+                "x": 139,
+                "y": 319
+              }
+            ]
+          },
+          "inferText": "79円",
+          "inferConfidence": 0.9944,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 292
+              },
+              {
+                "x": 210,
+                "y": 292
+              },
+              {
+                "x": 210,
+                "y": 296
+              },
+              {
+                "x": 199,
+                "y": 296
+              }
+            ]
+          },
+          "inferText": "THE",
+          "inferConfidence": 0.4918,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 296
+              },
+              {
+                "x": 141,
+                "y": 296
+              },
+              {
+                "x": 141,
+                "y": 309
+              },
+              {
+                "x": 114,
+                "y": 309
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 366,
+                "y": 294
+              },
+              {
+                "x": 404,
+                "y": 294
+              },
+              {
+                "x": 404,
+                "y": 310
+              },
+              {
+                "x": 366,
+                "y": 310
+              }
+            ]
+          },
+          "inferText": "4日間",
+          "inferConfidence": 0.9994,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 510,
+                "y": 294
+              },
+              {
+                "x": 548,
+                "y": 294
+              },
+              {
+                "x": 548,
+                "y": 310
+              },
+              {
+                "x": 510,
+                "y": 310
+              }
+            ]
+          },
+          "inferText": "4日間",
+          "inferConfidence": 0.9909,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 295
+              },
+              {
+                "x": 655,
+                "y": 295
+              },
+              {
+                "x": 655,
+                "y": 304
+              },
+              {
+                "x": 589,
+                "y": 304
+              }
+            ]
+          },
+          "inferText": "横済グルメ",
+          "inferConfidence": 0.7352,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 43,
+                "y": 309
+              },
+              {
+                "x": 104,
+                "y": 309
+              },
+              {
+                "x": 104,
+                "y": 319
+              },
+              {
+                "x": 43,
+                "y": 319
+              }
+            ]
+          },
+          "inferText": "豚肩ロースブロック",
+          "inferConfidence": 0.9872,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 309
+              },
+              {
+                "x": 134,
+                "y": 309
+              },
+              {
+                "x": 134,
+                "y": 314
+              },
+              {
+                "x": 120,
+                "y": 314
+              }
+            ]
+          },
+          "inferText": "400g",
+          "inferConfidence": 0.9102,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 194,
+                "y": 308
+              },
+              {
+                "x": 266,
+                "y": 308
+              },
+              {
+                "x": 266,
+                "y": 319
+              },
+              {
+                "x": 194,
+                "y": 319
+              }
+            ]
+          },
+          "inferText": "雪ロースしゃぶしゃぶ用",
+          "inferConfidence": 0.811,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 300,
+                "y": 296
+              },
+              {
+                "x": 371,
+                "y": 300
+              },
+              {
+                "x": 370,
+                "y": 322
+              },
+              {
+                "x": 298,
+                "y": 318
+              }
+            ]
+          },
+          "inferText": "3/24 3/27,",
+          "inferConfidence": 0.9237,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 447,
+                "y": 298
+              },
+              {
+                "x": 485,
+                "y": 298
+              },
+              {
+                "x": 485,
+                "y": 319
+              },
+              {
+                "x": 447,
+                "y": 319
+              }
+            ]
+          },
+          "inferText": "3/24~",
+          "inferConfidence": 0.8856,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 482,
+                "y": 299
+              },
+              {
+                "x": 513,
+                "y": 299
+              },
+              {
+                "x": 513,
+                "y": 321
+              },
+              {
+                "x": 482,
+                "y": 321
+              }
+            ]
+          },
+          "inferText": "3/27",
+          "inferConfidence": 0.9963,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 304
+              },
+              {
+                "x": 626,
+                "y": 304
+              },
+              {
+                "x": 626,
+                "y": 314
+              },
+              {
+                "x": 589,
+                "y": 314
+              }
+            ]
+          },
+          "inferText": "やわらか、",
+          "inferConfidence": 0.9934,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 624,
+                "y": 303
+              },
+              {
+                "x": 659,
+                "y": 303
+              },
+              {
+                "x": 659,
+                "y": 314
+              },
+              {
+                "x": 624,
+                "y": 314
+              }
+            ]
+          },
+          "inferText": "うまい!!",
+          "inferConfidence": 0.9936,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 379,
+                "y": 309
+              },
+              {
+                "x": 436,
+                "y": 309
+              },
+              {
+                "x": 436,
+                "y": 323
+              },
+              {
+                "x": 379,
+                "y": 323
+              }
+            ]
+          },
+          "inferText": "ぶっ通し!!",
+          "inferConfidence": 0.9897,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 509,
+                "y": 311
+              },
+              {
+                "x": 518,
+                "y": 311
+              },
+              {
+                "x": 518,
+                "y": 322
+              },
+              {
+                "x": 509,
+                "y": 322
+              }
+            ]
+          },
+          "inferText": "6",
+          "inferConfidence": 0.6554,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 517,
+                "y": 309
+              },
+              {
+                "x": 576,
+                "y": 309
+              },
+              {
+                "x": 576,
+                "y": 323
+              },
+              {
+                "x": 517,
+                "y": 323
+              }
+            ]
+          },
+          "inferText": "ぶう通し!!",
+          "inferConfidence": 0.974,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 314
+              },
+              {
+                "x": 720,
+                "y": 314
+              },
+              {
+                "x": 720,
+                "y": 332
+              },
+              {
+                "x": 589,
+                "y": 332
+              }
+            ]
+          },
+          "inferText": "スモークペッパーハム",
+          "inferConfidence": 0.9947,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 328
+              },
+              {
+                "x": 59,
+                "y": 328
+              },
+              {
+                "x": 59,
+                "y": 339
+              },
+              {
+                "x": 34,
+                "y": 339
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 57,
+                "y": 322
+              },
+              {
+                "x": 109,
+                "y": 322
+              },
+              {
+                "x": 109,
+                "y": 350
+              },
+              {
+                "x": 57,
+                "y": 350
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 122,
+                "y": 326
+              },
+              {
+                "x": 179,
+                "y": 326
+              },
+              {
+                "x": 179,
+                "y": 335
+              },
+              {
+                "x": 122,
+                "y": 335
+              }
+            ]
+          },
+          "inferText": "豚バラスライス",
+          "inferConfidence": 0.9942,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 194,
+                "y": 328
+              },
+              {
+                "x": 220,
+                "y": 328
+              },
+              {
+                "x": 220,
+                "y": 339
+              },
+              {
+                "x": 194,
+                "y": 339
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 219,
+                "y": 323
+              },
+              {
+                "x": 270,
+                "y": 323
+              },
+              {
+                "x": 270,
+                "y": 351
+              },
+              {
+                "x": 219,
+                "y": 351
+              }
+            ]
+          },
+          "inferText": "129円",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 296,
+                "y": 323
+              },
+              {
+                "x": 444,
+                "y": 323
+              },
+              {
+                "x": 444,
+                "y": 359
+              },
+              {
+                "x": 296,
+                "y": 359
+              }
+            ]
+          },
+          "inferText": "お花見バーベQ!",
+          "inferConfidence": 0.9791,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 500,
+                "y": 328
+              },
+              {
+                "x": 524,
+                "y": 328
+              },
+              {
+                "x": 524,
+                "y": 459
+              },
+              {
+                "x": 500,
+                "y": 459
+              }
+            ]
+          },
+          "inferText": "家計応援フライス",
+          "inferConfidence": 0.9983,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 590,
+                "y": 331
+              },
+              {
+                "x": 616,
+                "y": 331
+              },
+              {
+                "x": 616,
+                "y": 341
+              },
+              {
+                "x": 590,
+                "y": 341
+              }
+            ]
+          },
+          "inferText": "100円",
+          "inferConfidence": 0.9174,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 627,
+                "y": 331
+              },
+              {
+                "x": 725,
+                "y": 333
+              },
+              {
+                "x": 724,
+                "y": 369
+              },
+              {
+                "x": 626,
+                "y": 367
+              }
+            ]
+          },
+          "inferText": "149円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 341
+              },
+              {
+                "x": 53,
+                "y": 341
+              },
+              {
+                "x": 53,
+                "y": 345
+              },
+              {
+                "x": 39,
+                "y": 345
+              }
+            ]
+          },
+          "inferText": "100",
+          "inferConfidence": 0.904,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 339
+              },
+              {
+                "x": 191,
+                "y": 340
+              },
+              {
+                "x": 190,
+                "y": 368
+              },
+              {
+                "x": 139,
+                "y": 366
+              }
+            ]
+          },
+          "inferText": "89円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 341
+              },
+              {
+                "x": 213,
+                "y": 341
+              },
+              {
+                "x": 213,
+                "y": 345
+              },
+              {
+                "x": 199,
+                "y": 345
+              }
+            ]
+          },
+          "inferText": "100",
+          "inferConfidence": 0.8118,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 588,
+                "y": 339
+              },
+              {
+                "x": 629,
+                "y": 339
+              },
+              {
+                "x": 629,
+                "y": 349
+              },
+              {
+                "x": 588,
+                "y": 349
+              }
+            ]
+          },
+          "inferText": "228円の",
+          "inferConfidence": 0.7592,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 115,
+                "y": 345
+              },
+              {
+                "x": 140,
+                "y": 345
+              },
+              {
+                "x": 140,
+                "y": 356
+              },
+              {
+                "x": 115,
+                "y": 356
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 455,
+                "y": 342
+              },
+              {
+                "x": 489,
+                "y": 342
+              },
+              {
+                "x": 489,
+                "y": 350
+              },
+              {
+                "x": 455,
+                "y": 350
+              }
+            ]
+          },
+          "inferText": "苦もも肉",
+          "inferConfidence": 0.5248,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 529,
+                "y": 342
+              },
+              {
+                "x": 564,
+                "y": 342
+              },
+              {
+                "x": 564,
+                "y": 350
+              },
+              {
+                "x": 529,
+                "y": 350
+              }
+            ]
+          },
+          "inferText": "牛肉合映画",
+          "inferConfidence": 0.5895,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 33,
+                "y": 356
+              },
+              {
+                "x": 106,
+                "y": 356
+              },
+              {
+                "x": 106,
+                "y": 367
+              },
+              {
+                "x": 33,
+                "y": 367
+              }
+            ]
+          },
+          "inferText": "カレーシチュー用()",
+          "inferConfidence": 0.7477,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 357
+              },
+              {
+                "x": 135,
+                "y": 357
+              },
+              {
+                "x": 135,
+                "y": 363
+              },
+              {
+                "x": 120,
+                "y": 363
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 196,
+                "y": 358
+              },
+              {
+                "x": 201,
+                "y": 358
+              },
+              {
+                "x": 201,
+                "y": 366
+              },
+              {
+                "x": 196,
+                "y": 366
+              }
+            ]
+          },
+          "inferText": "I",
+          "inferConfidence": 0.4853,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 356
+              },
+              {
+                "x": 256,
+                "y": 356
+              },
+              {
+                "x": 256,
+                "y": 367
+              },
+              {
+                "x": 202,
+                "y": 367
+              }
+            ]
+          },
+          "inferText": "たレブロック",
+          "inferConfidence": 0.8916,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 450,
+                "y": 350
+              },
+              {
+                "x": 495,
+                "y": 352
+              },
+              {
+                "x": 493,
+                "y": 375
+              },
+              {
+                "x": 449,
+                "y": 373
+              }
+            ]
+          },
+          "inferText": "79円",
+          "inferConfidence": 0.9987,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 525,
+                "y": 350
+              },
+              {
+                "x": 569,
+                "y": 352
+              },
+              {
+                "x": 568,
+                "y": 375
+              },
+              {
+                "x": 523,
+                "y": 373
+              }
+            ]
+          },
+          "inferText": "79円",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 587,
+                "y": 349
+              },
+              {
+                "x": 633,
+                "y": 351
+              },
+              {
+                "x": 632,
+                "y": 365
+              },
+              {
+                "x": 586,
+                "y": 363
+              }
+            ]
+          },
+          "inferText": "-100g",
+          "inferConfidence": 0.9708,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 316,
+                "y": 364
+              },
+              {
+                "x": 361,
+                "y": 364
+              },
+              {
+                "x": 361,
+                "y": 371
+              },
+              {
+                "x": 316,
+                "y": 371
+              }
+            ]
+          },
+          "inferText": "牛カルビ使用",
+          "inferConfidence": 0.9748,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 764,
+                "y": 363
+              },
+              {
+                "x": 801,
+                "y": 363
+              },
+              {
+                "x": 801,
+                "y": 426
+              },
+              {
+                "x": 764,
+                "y": 426
+              }
+            ]
+          },
+          "inferText": "開催",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 379,
+                "y": 366
+              },
+              {
+                "x": 393,
+                "y": 366
+              },
+              {
+                "x": 393,
+                "y": 370
+              },
+              {
+                "x": 379,
+                "y": 370
+              }
+            ]
+          },
+          "inferText": "Par",
+          "inferConfidence": 0.4417,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 377
+              },
+              {
+                "x": 59,
+                "y": 377
+              },
+              {
+                "x": 59,
+                "y": 387
+              },
+              {
+                "x": 34,
+                "y": 387
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 58,
+                "y": 371
+              },
+              {
+                "x": 109,
+                "y": 371
+              },
+              {
+                "x": 109,
+                "y": 399
+              },
+              {
+                "x": 58,
+                "y": 399
+              }
+            ]
+          },
+          "inferText": "64円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 115,
+                "y": 373
+              },
+              {
+                "x": 184,
+                "y": 374
+              },
+              {
+                "x": 184,
+                "y": 384
+              },
+              {
+                "x": 115,
+                "y": 383
+              }
+            ]
+          },
+          "inferText": "ラしゃぶしゃぶ用",
+          "inferConfidence": 0.8252,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 193,
+                "y": 376
+              },
+              {
+                "x": 221,
+                "y": 376
+              },
+              {
+                "x": 221,
+                "y": 388
+              },
+              {
+                "x": 193,
+                "y": 388
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 219,
+                "y": 371
+              },
+              {
+                "x": 270,
+                "y": 371
+              },
+              {
+                "x": 270,
+                "y": 398
+              },
+              {
+                "x": 219,
+                "y": 398
+              }
+            ]
+          },
+          "inferText": "134円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 314,
+                "y": 379
+              },
+              {
+                "x": 362,
+                "y": 379
+              },
+              {
+                "x": 362,
+                "y": 387
+              },
+              {
+                "x": 314,
+                "y": 387
+              }
+            ]
+          },
+          "inferText": "キソフトカルビ使用",
+          "inferConfidence": 0.9194,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 391,
+                "y": 379
+              },
+              {
+                "x": 432,
+                "y": 379
+              },
+              {
+                "x": 432,
+                "y": 388
+              },
+              {
+                "x": 391,
+                "y": 388
+              }
+            ]
+          },
+          "inferText": "ホルモン",
+          "inferConfidence": 0.8235,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 456,
+                "y": 383
+              },
+              {
+                "x": 489,
+                "y": 383
+              },
+              {
+                "x": 489,
+                "y": 389
+              },
+              {
+                "x": 456,
+                "y": 389
+              }
+            ]
+          },
+          "inferText": "苦鶏ムネ色",
+          "inferConfidence": 0.6217,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 536,
+                "y": 383
+              },
+              {
+                "x": 555,
+                "y": 383
+              },
+              {
+                "x": 555,
+                "y": 389
+              },
+              {
+                "x": 536,
+                "y": 389
+              }
+            ]
+          },
+          "inferText": "豆持の",
+          "inferConfidence": 0.1822,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 597,
+                "y": 374
+              },
+              {
+                "x": 716,
+                "y": 374
+              },
+              {
+                "x": 716,
+                "y": 387
+              },
+              {
+                "x": 597,
+                "y": 387
+              }
+            ]
+          },
+          "inferText": "コロッケバイキング!!",
+          "inferConfidence": 0.9993,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 389
+              },
+              {
+                "x": 54,
+                "y": 389
+              },
+              {
+                "x": 54,
+                "y": 394
+              },
+              {
+                "x": 39,
+                "y": 394
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9877,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 387
+              },
+              {
+                "x": 190,
+                "y": 387
+              },
+              {
+                "x": 190,
+                "y": 416
+              },
+              {
+                "x": 139,
+                "y": 416
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 389
+              },
+              {
+                "x": 213,
+                "y": 389
+              },
+              {
+                "x": 213,
+                "y": 394
+              },
+              {
+                "x": 199,
+                "y": 394
+              }
+            ]
+          },
+          "inferText": "100",
+          "inferConfidence": 0.8116,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 393
+              },
+              {
+                "x": 141,
+                "y": 393
+              },
+              {
+                "x": 141,
+                "y": 405
+              },
+              {
+                "x": 114,
+                "y": 405
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 334,
+                "y": 396
+              },
+              {
+                "x": 368,
+                "y": 398
+              },
+              {
+                "x": 368,
+                "y": 405
+              },
+              {
+                "x": 333,
+                "y": 403
+              }
+            ]
+          },
+          "inferText": "くの夏行のに",
+          "inferConfidence": 0.5902,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 396,
+                "y": 394
+              },
+              {
+                "x": 438,
+                "y": 394
+              },
+              {
+                "x": 438,
+                "y": 403
+              },
+              {
+                "x": 396,
+                "y": 403
+              }
+            ]
+          },
+          "inferText": "タン塩焼用",
+          "inferConfidence": 0.8476,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 450,
+                "y": 389
+              },
+              {
+                "x": 495,
+                "y": 393
+              },
+              {
+                "x": 492,
+                "y": 415
+              },
+              {
+                "x": 448,
+                "y": 410
+              }
+            ]
+          },
+          "inferText": "49円",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 524,
+                "y": 391
+              },
+              {
+                "x": 568,
+                "y": 391
+              },
+              {
+                "x": 568,
+                "y": 414
+              },
+              {
+                "x": 524,
+                "y": 414
+              }
+            ]
+          },
+          "inferText": "69円",
+          "inferConfidence": 0.9992,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 661,
+                "y": 393
+              },
+              {
+                "x": 716,
+                "y": 393
+              },
+              {
+                "x": 716,
+                "y": 404
+              },
+              {
+                "x": 661,
+                "y": 404
+              }
+            ]
+          },
+          "inferText": "ポテトコロッケ",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 43,
+                "y": 406
+              },
+              {
+                "x": 105,
+                "y": 406
+              },
+              {
+                "x": 105,
+                "y": 414
+              },
+              {
+                "x": 43,
+                "y": 414
+              }
+            ]
+          },
+          "inferText": "やわらかランプス",
+          "inferConfidence": 0.8774,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 406
+              },
+              {
+                "x": 134,
+                "y": 406
+              },
+              {
+                "x": 134,
+                "y": 411
+              },
+              {
+                "x": 120,
+                "y": 411
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9995,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 202,
+                "y": 406
+              },
+              {
+                "x": 264,
+                "y": 406
+              },
+              {
+                "x": 264,
+                "y": 414
+              },
+              {
+                "x": 202,
+                "y": 414
+              }
+            ]
+          },
+          "inferText": "のも切り落とし",
+          "inferConfidence": 0.6255,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 661,
+                "y": 404
+              },
+              {
+                "x": 709,
+                "y": 404
+              },
+              {
+                "x": 709,
+                "y": 413
+              },
+              {
+                "x": 661,
+                "y": 413
+              }
+            ]
+          },
+          "inferText": "野菜コロッケ",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 391,
+                "y": 409
+              },
+              {
+                "x": 423,
+                "y": 409
+              },
+              {
+                "x": 423,
+                "y": 416
+              },
+              {
+                "x": 391,
+                "y": 416
+              }
+            ]
+          },
+          "inferText": "レバー",
+          "inferConfidence": 0.8553,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 494,
+                "y": 406
+              },
+              {
+                "x": 504,
+                "y": 406
+              },
+              {
+                "x": 504,
+                "y": 459
+              },
+              {
+                "x": 494,
+                "y": 459
+              }
+            ]
+          },
+          "inferText": "売り切れ御統",
+          "inferConfidence": 0.82,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 295,
+                "y": 408
+              },
+              {
+                "x": 404,
+                "y": 410
+              },
+              {
+                "x": 403,
+                "y": 465
+              },
+              {
+                "x": 294,
+                "y": 463
+              }
+            ]
+          },
+          "inferText": "88円",
+          "inferConfidence": 0.9995,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 660,
+                "y": 412
+              },
+              {
+                "x": 717,
+                "y": 412
+              },
+              {
+                "x": 717,
+                "y": 423
+              },
+              {
+                "x": 660,
+                "y": 423
+              }
+            ]
+          },
+          "inferText": "カレーコロッケ",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 58,
+                "y": 419
+              },
+              {
+                "x": 109,
+                "y": 419
+              },
+              {
+                "x": 109,
+                "y": 446
+              },
+              {
+                "x": 58,
+                "y": 446
+              }
+            ]
+          },
+          "inferText": "89円",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 217,
+                "y": 419
+              },
+              {
+                "x": 269,
+                "y": 419
+              },
+              {
+                "x": 269,
+                "y": 446
+              },
+              {
+                "x": 217,
+                "y": 446
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 34,
+                "y": 424
+              },
+              {
+                "x": 59,
+                "y": 424
+              },
+              {
+                "x": 59,
+                "y": 435
+              },
+              {
+                "x": 34,
+                "y": 435
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 115,
+                "y": 422
+              },
+              {
+                "x": 186,
+                "y": 422
+              },
+              {
+                "x": 186,
+                "y": 431
+              },
+              {
+                "x": 115,
+                "y": 431
+              }
+            ]
+          },
+          "inferText": "日ース生焼き用",
+          "inferConfidence": 0.8605,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 194,
+                "y": 424
+              },
+              {
+                "x": 220,
+                "y": 424
+              },
+              {
+                "x": 220,
+                "y": 436
+              },
+              {
+                "x": 194,
+                "y": 436
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 459,
+                "y": 425
+              },
+              {
+                "x": 484,
+                "y": 425
+              },
+              {
+                "x": 484,
+                "y": 429
+              },
+              {
+                "x": 459,
+                "y": 429
+              }
+            ]
+          },
+          "inferText": "NEA",
+          "inferConfidence": 0.5656,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 529,
+                "y": 424
+              },
+              {
+                "x": 556,
+                "y": 424
+              },
+              {
+                "x": 556,
+                "y": 431
+              },
+              {
+                "x": 529,
+                "y": 431
+              }
+            ]
+          },
+          "inferText": "西岡ムキ",
+          "inferConfidence": 0.5476,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 660,
+                "y": 422
+              },
+              {
+                "x": 704,
+                "y": 422
+              },
+              {
+                "x": 704,
+                "y": 434
+              },
+              {
+                "x": 660,
+                "y": 434
+              }
+            ]
+          },
+          "inferText": "メンチカツ",
+          "inferConfidence": 0.9971,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 399,
+                "y": 426
+              },
+              {
+                "x": 438,
+                "y": 426
+              },
+              {
+                "x": 438,
+                "y": 446
+              },
+              {
+                "x": 399,
+                "y": 446
+              }
+            ]
+          },
+          "inferText": "均一",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 139,
+                "y": 434
+              },
+              {
+                "x": 191,
+                "y": 436
+              },
+              {
+                "x": 191,
+                "y": 464
+              },
+              {
+                "x": 139,
+                "y": 462
+              }
+            ]
+          },
+          "inferText": "109円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 524,
+                "y": 434
+              },
+              {
+                "x": 566,
+                "y": 434
+              },
+              {
+                "x": 566,
+                "y": 455
+              },
+              {
+                "x": 524,
+                "y": 455
+              }
+            ]
+          },
+          "inferText": "49円",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 645,
+                "y": 434
+              },
+              {
+                "x": 722,
+                "y": 434
+              },
+              {
+                "x": 722,
+                "y": 469
+              },
+              {
+                "x": 645,
+                "y": 469
+              }
+            ]
+          },
+          "inferText": "39円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 39,
+                "y": 437
+              },
+              {
+                "x": 54,
+                "y": 437
+              },
+              {
+                "x": 54,
+                "y": 441
+              },
+              {
+                "x": 39,
+                "y": 441
+              }
+            ]
+          },
+          "inferText": "400g",
+          "inferConfidence": 0.8779,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 199,
+                "y": 437
+              },
+              {
+                "x": 213,
+                "y": 437
+              },
+              {
+                "x": 213,
+                "y": 441
+              },
+              {
+                "x": 199,
+                "y": 441
+              }
+            ]
+          },
+          "inferText": "600",
+          "inferConfidence": 0.8102,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 450,
+                "y": 433
+              },
+              {
+                "x": 494,
+                "y": 436
+              },
+              {
+                "x": 493,
+                "y": 456
+              },
+              {
+                "x": 448,
+                "y": 453
+              }
+            ]
+          },
+          "inferText": "298円",
+          "inferConfidence": 0.9983,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 114,
+                "y": 441
+              },
+              {
+                "x": 141,
+                "y": 441
+              },
+              {
+                "x": 141,
+                "y": 452
+              },
+              {
+                "x": 114,
+                "y": 452
+              }
+            ]
+          },
+          "inferText": "半額",
+          "inferConfidence": 0.9991,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 304,
+                "y": 451
+              },
+              {
+                "x": 321,
+                "y": 451
+              },
+              {
+                "x": 321,
+                "y": 457
+              },
+              {
+                "x": 304,
+                "y": 457
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9386,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 398,
+                "y": 442
+              },
+              {
+                "x": 441,
+                "y": 442
+              },
+              {
+                "x": 441,
+                "y": 461
+              },
+              {
+                "x": 398,
+                "y": 461
+              }
+            ]
+          },
+          "inferText": "セール!",
+          "inferConfidence": 0.9976,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 440
+              },
+              {
+                "x": 630,
+                "y": 440
+              },
+              {
+                "x": 630,
+                "y": 453
+              },
+              {
+                "x": 589,
+                "y": 453
+              }
+            ]
+          },
+          "inferText": "オール",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 120,
+                "y": 454
+              },
+              {
+                "x": 134,
+                "y": 454
+              },
+              {
+                "x": 134,
+                "y": 459
+              },
+              {
+                "x": 120,
+                "y": 459
+              }
+            ]
+          },
+          "inferText": "100g",
+          "inferConfidence": 0.9782,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 589,
+                "y": 451
+              },
+              {
+                "x": 648,
+                "y": 451
+              },
+              {
+                "x": 648,
+                "y": 464
+              },
+              {
+                "x": 589,
+                "y": 464
+              }
+            ]
+          },
+          "inferText": "よりどり1ヶ",
+          "inferConfidence": 0.9965,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 4,
+                "y": 466
+              },
+              {
+                "x": 25,
+                "y": 466
+              },
+              {
+                "x": 25,
+                "y": 479
+              },
+              {
+                "x": 4,
+                "y": 479
+              }
+            ]
+          },
+          "inferText": "3/24",
+          "inferConfidence": 0.9842,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 111,
+                "y": 479
+              },
+              {
+                "x": 136,
+                "y": 479
+              },
+              {
+                "x": 136,
+                "y": 486
+              },
+              {
+                "x": 111,
+                "y": 486
+              }
+            ]
+          },
+          "inferText": "シーク",
+          "inferConfidence": 0.7909,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 154,
+                "y": 478
+              },
+              {
+                "x": 173,
+                "y": 478
+              },
+              {
+                "x": 173,
+                "y": 486
+              },
+              {
+                "x": 154,
+                "y": 486
+              }
+            ]
+          },
+          "inferText": "タカノ",
+          "inferConfidence": 0.9023,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 204,
+                "y": 466
+              },
+              {
+                "x": 227,
+                "y": 466
+              },
+              {
+                "x": 227,
+                "y": 479
+              },
+              {
+                "x": 204,
+                "y": 479
+              }
+            ]
+          },
+          "inferText": "3/25",
+          "inferConfidence": 0.989,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 232,
+                "y": 465
+              },
+              {
+                "x": 255,
+                "y": 465
+              },
+              {
+                "x": 255,
+                "y": 479
+              },
+              {
+                "x": 232,
+                "y": 479
+              }
+            ]
+          },
+          "inferText": "3/26",
+          "inferConfidence": 0.9936,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 288,
+                "y": 479
+              },
+              {
+                "x": 306,
+                "y": 479
+              },
+              {
+                "x": 306,
+                "y": 485
+              },
+              {
+                "x": 288,
+                "y": 485
+              }
+            ]
+          },
+          "inferText": "アサヒ",
+          "inferConfidence": 0.9826,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 309,
+                "y": 479
+              },
+              {
+                "x": 351,
+                "y": 479
+              },
+              {
+                "x": 351,
+                "y": 486
+              },
+              {
+                "x": 309,
+                "y": 486
+              }
+            ]
+          },
+          "inferText": "ミツ矢サイター",
+          "inferConfidence": 0.8262,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 358,
+                "y": 475
+              },
+              {
+                "x": 405,
+                "y": 475
+              },
+              {
+                "x": 405,
+                "y": 483
+              },
+              {
+                "x": 358,
+                "y": 483
+              }
+            ]
+          },
+          "inferText": "丸美屋フェアー",
+          "inferConfidence": 0.8706,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 412,
+                "y": 479
+              },
+              {
+                "x": 449,
+                "y": 479
+              },
+              {
+                "x": 449,
+                "y": 484
+              },
+              {
+                "x": 412,
+                "y": 484
+              }
+            ]
+          },
+          "inferText": "ともめしの度",
+          "inferConfidence": 0.5781,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 465,
+                "y": 466
+              },
+              {
+                "x": 488,
+                "y": 466
+              },
+              {
+                "x": 488,
+                "y": 480
+              },
+              {
+                "x": 465,
+                "y": 480
+              }
+            ]
+          },
+          "inferText": "3/27",
+          "inferConfidence": 0.9995,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 499,
+                "y": 480
+              },
+              {
+                "x": 516,
+                "y": 480
+              },
+              {
+                "x": 516,
+                "y": 484
+              },
+              {
+                "x": 499,
+                "y": 484
+              }
+            ]
+          },
+          "inferText": "で",
+          "inferConfidence": 0.803,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 534,
+                "y": 479
+              },
+              {
+                "x": 549,
+                "y": 479
+              },
+              {
+                "x": 549,
+                "y": 486
+              },
+              {
+                "x": 534,
+                "y": 486
+              }
+            ]
+          },
+          "inferText": "タカノ",
+          "inferConfidence": 0.9317,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 596,
+                "y": 480
+              },
+              {
+                "x": 608,
+                "y": 480
+              },
+              {
+                "x": 608,
+                "y": 486
+              },
+              {
+                "x": 596,
+                "y": 486
+              }
+            ]
+          },
+          "inferText": ".",
+          "inferConfidence": 0.4851,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 489
+              },
+              {
+                "x": 31,
+                "y": 489
+              },
+              {
+                "x": 31,
+                "y": 496
+              },
+              {
+                "x": 6,
+                "y": 496
+              }
+            ]
+          },
+          "inferText": "ヤマザキ",
+          "inferConfidence": 0.9995,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 106,
+                "y": 486
+              },
+              {
+                "x": 144,
+                "y": 486
+              },
+              {
+                "x": 144,
+                "y": 494
+              },
+              {
+                "x": 106,
+                "y": 494
+              }
+            ]
+          },
+          "inferText": "家族の青い",
+          "inferConfidence": 0.8879,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 156,
+                "y": 485
+              },
+              {
+                "x": 202,
+                "y": 485
+              },
+              {
+                "x": 202,
+                "y": 496
+              },
+              {
+                "x": 156,
+                "y": 496
+              }
+            ]
+          },
+          "inferText": "70,000,000",
+          "inferConfidence": 0.6548,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 214,
+                "y": 487
+              },
+              {
+                "x": 241,
+                "y": 489
+              },
+              {
+                "x": 241,
+                "y": 497
+              },
+              {
+                "x": 214,
+                "y": 495
+              }
+            ]
+          },
+          "inferText": "クリップを",
+          "inferConfidence": 0.6512,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 304,
+                "y": 485
+              },
+              {
+                "x": 351,
+                "y": 485
+              },
+              {
+                "x": 351,
+                "y": 493
+              },
+              {
+                "x": 304,
+                "y": 493
+              }
+            ]
+          },
+          "inferText": "レモンをしばった",
+          "inferConfidence": 0.9934,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 412,
+                "y": 486
+              },
+              {
+                "x": 445,
+                "y": 486
+              },
+              {
+                "x": 445,
+                "y": 491
+              },
+              {
+                "x": 412,
+                "y": 491
+              }
+            ]
+          },
+          "inferText": "お局めしの度",
+          "inferConfidence": 0.5133,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 491,
+                "y": 486
+              },
+              {
+                "x": 524,
+                "y": 486
+              },
+              {
+                "x": 524,
+                "y": 494
+              },
+              {
+                "x": 491,
+                "y": 494
+              }
+            ]
+          },
+          "inferText": "の味",
+          "inferConfidence": 0.496,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 533,
+                "y": 486
+              },
+              {
+                "x": 591,
+                "y": 486
+              },
+              {
+                "x": 591,
+                "y": 496
+              },
+              {
+                "x": 533,
+                "y": 496
+              }
+            ]
+          },
+          "inferText": "ツインバック豆腐",
+          "inferConfidence": 0.99,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 596,
+                "y": 487
+              },
+              {
+                "x": 626,
+                "y": 487
+              },
+              {
+                "x": 626,
+                "y": 496
+              },
+              {
+                "x": 596,
+                "y": 496
+              }
+            ]
+          },
+          "inferText": "ピビダス",
+          "inferConfidence": 0.8105,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 658,
+                "y": 486
+              },
+              {
+                "x": 709,
+                "y": 486
+              },
+              {
+                "x": 709,
+                "y": 497
+              },
+              {
+                "x": 658,
+                "y": 497
+              }
+            ]
+          },
+          "inferText": "クックドゥ各種",
+          "inferConfidence": 0.9526,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 314,
+                "y": 492
+              },
+              {
+                "x": 351,
+                "y": 492
+              },
+              {
+                "x": 351,
+                "y": 499
+              },
+              {
+                "x": 314,
+                "y": 499
+              }
+            ]
+          },
+          "inferText": "ッキサイダー",
+          "inferConfidence": 0.9499,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 413,
+                "y": 491
+              },
+              {
+                "x": 445,
+                "y": 491
+              },
+              {
+                "x": 445,
+                "y": 499
+              },
+              {
+                "x": 413,
+                "y": 499
+              }
+            ]
+          },
+          "inferText": "シリーズ",
+          "inferConfidence": 0.9671,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 5,
+                "y": 494
+              },
+              {
+                "x": 59,
+                "y": 494
+              },
+              {
+                "x": 59,
+                "y": 506
+              },
+              {
+                "x": 5,
+                "y": 506
+              }
+            ]
+          },
+          "inferText": "マーガリン入り",
+          "inferConfidence": 0.9991,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 106,
+                "y": 498
+              },
+              {
+                "x": 131,
+                "y": 498
+              },
+              {
+                "x": 131,
+                "y": 502
+              },
+              {
+                "x": 106,
+                "y": 502
+              }
+            ]
+          },
+          "inferText": "外世と愛す",
+          "inferConfidence": 0.4647,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 227,
+                "y": 497
+              },
+              {
+                "x": 279,
+                "y": 497
+              },
+              {
+                "x": 279,
+                "y": 506
+              },
+              {
+                "x": 227,
+                "y": 506
+              }
+            ]
+          },
+          "inferText": "茶福豆·白花豆",
+          "inferConfidence": 0.8478,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 596,
+                "y": 496
+              },
+              {
+                "x": 634,
+                "y": 495
+              },
+              {
+                "x": 634,
+                "y": 505
+              },
+              {
+                "x": 596,
+                "y": 505
+              }
+            ]
+          },
+          "inferText": "ヨーグルト",
+          "inferConfidence": 0.9989,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 285,
+                "y": 499
+              },
+              {
+                "x": 302,
+                "y": 499
+              },
+              {
+                "x": 302,
+                "y": 504
+              },
+              {
+                "x": 285,
+                "y": 504
+              }
+            ]
+          },
+          "inferText": "合わせて",
+          "inferConfidence": 0.8578,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 339,
+                "y": 500
+              },
+              {
+                "x": 351,
+                "y": 500
+              },
+              {
+                "x": 351,
+                "y": 505
+              },
+              {
+                "x": 339,
+                "y": 505
+              }
+            ]
+          },
+          "inferText": "ちな",
+          "inferConfidence": 0.4399,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 6,
+                "y": 505
+              },
+              {
+                "x": 51,
+                "y": 505
+              },
+              {
+                "x": 51,
+                "y": 514
+              },
+              {
+                "x": 6,
+                "y": 514
+              }
+            ]
+          },
+          "inferText": "ロール4コ入",
+          "inferConfidence": 0.946,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 133,
+                "y": 505
+              },
+              {
+                "x": 142,
+                "y": 505
+              },
+              {
+                "x": 142,
+                "y": 509
+              },
+              {
+                "x": 133,
+                "y": 509
+              }
+            ]
+          },
+          "inferText": "ます",
+          "inferConfidence": 0.8457,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 614,
+                "y": 502
+              },
+              {
+                "x": 648,
+                "y": 502
+              },
+              {
+                "x": 648,
+                "y": 512
+              },
+              {
+                "x": 614,
+                "y": 512
+              }
+            ]
+          },
+          "inferText": "ビビダス",
+          "inferConfidence": 0.9301,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 213,
+                "y": 505
+              },
+              {
+                "x": 279,
+                "y": 505
+              },
+              {
+                "x": 279,
+                "y": 516
+              },
+              {
+                "x": 213,
+                "y": 516
+              }
+            ]
+          },
+          "inferText": "うすら豆お多く幅豆",
+          "inferConfidence": 0.5431,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 7,
+                "y": 515
+              },
+              {
+                "x": 25,
+                "y": 515
+              },
+              {
+                "x": 25,
+                "y": 520
+              },
+              {
+                "x": 7,
+                "y": 520
+              }
+            ]
+          },
+          "inferText": "レー",
+          "inferConfidence": 0.6554,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 189,
+                "y": 514
+              },
+              {
+                "x": 204,
+                "y": 514
+              },
+              {
+                "x": 204,
+                "y": 519
+              },
+              {
+                "x": 189,
+                "y": 519
+              }
+            ]
+          },
+          "inferText": "1",
+          "inferConfidence": 0.4303,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 506,
+                "y": 514
+              },
+              {
+                "x": 523,
+                "y": 514
+              },
+              {
+                "x": 523,
+                "y": 519
+              },
+              {
+                "x": 506,
+                "y": 519
+              }
+            ]
+          },
+          "inferText": "750g",
+          "inferConfidence": 0.9369,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 759,
+                "y": 516
+              },
+              {
+                "x": 796,
+                "y": 516
+              },
+              {
+                "x": 796,
+                "y": 524
+              },
+              {
+                "x": 759,
+                "y": 524
+              }
+            ]
+          },
+          "inferText": "プレゼント!",
+          "inferConfidence": 0.9558,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 531
+              },
+              {
+                "x": 31,
+                "y": 531
+              },
+              {
+                "x": 31,
+                "y": 536
+              },
+              {
+                "x": 9,
+                "y": 536
+              }
+            ]
+          },
+          "inferText": "黒毛ハン",
+          "inferConfidence": 0.7073,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 33,
+                "y": 522
+              },
+              {
+                "x": 81,
+                "y": 522
+              },
+              {
+                "x": 81,
+                "y": 549
+              },
+              {
+                "x": 33,
+                "y": 549
+              }
+            ]
+          },
+          "inferText": "99円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 89,
+                "y": 522
+              },
+              {
+                "x": 149,
+                "y": 522
+              },
+              {
+                "x": 149,
+                "y": 548
+              },
+              {
+                "x": 89,
+                "y": 548
+              }
+            ]
+          },
+          "inferText": "各99円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 156,
+                "y": 521
+              },
+              {
+                "x": 205,
+                "y": 521
+              },
+              {
+                "x": 205,
+                "y": 549
+              },
+              {
+                "x": 156,
+                "y": 549
+              }
+            ]
+          },
+          "inferText": "78円",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 227,
+                "y": 522
+              },
+              {
+                "x": 285,
+                "y": 522
+              },
+              {
+                "x": 285,
+                "y": 548
+              },
+              {
+                "x": 227,
+                "y": 548
+              }
+            ]
+          },
+          "inferText": "158円",
+          "inferConfidence": 0.9998,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 298,
+                "y": 521
+              },
+              {
+                "x": 356,
+                "y": 521
+              },
+              {
+                "x": 356,
+                "y": 549
+              },
+              {
+                "x": 298,
+                "y": 549
+              }
+            ]
+          },
+          "inferText": "139円",
+          "inferConfidence": 0.9997,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 470,
+                "y": 520
+              },
+              {
+                "x": 529,
+                "y": 523
+              },
+              {
+                "x": 528,
+                "y": 549
+              },
+              {
+                "x": 469,
+                "y": 547
+              }
+            ]
+          },
+          "inferText": "299円",
+          "inferConfidence": 0.9996,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 529,
+                "y": 522
+              },
+              {
+                "x": 590,
+                "y": 522
+              },
+              {
+                "x": 590,
+                "y": 548
+              },
+              {
+                "x": 529,
+                "y": 548
+              }
+            ]
+          },
+          "inferText": "各88円",
+          "inferConfidence": 0.9948,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 597,
+                "y": 520
+              },
+              {
+                "x": 655,
+                "y": 523
+              },
+              {
+                "x": 654,
+                "y": 549
+              },
+              {
+                "x": 596,
+                "y": 547
+              }
+            ]
+          },
+          "inferText": "128円",
+          "inferConfidence": 0.9989,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 659,
+                "y": 522
+              },
+              {
+                "x": 718,
+                "y": 522
+              },
+              {
+                "x": 718,
+                "y": 549
+              },
+              {
+                "x": 659,
+                "y": 549
+              }
+            ]
+          },
+          "inferText": "300円",
+          "inferConfidence": 1,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 9,
+                "y": 537
+              },
+              {
+                "x": 29,
+                "y": 537
+              },
+              {
+                "x": 29,
+                "y": 543
+              },
+              {
+                "x": 9,
+                "y": 543
+              }
+            ]
+          },
+          "inferText": "市",
+          "inferConfidence": 0.1308,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 371,
+                "y": 531
+              },
+              {
+                "x": 406,
+                "y": 531
+              },
+              {
+                "x": 406,
+                "y": 545
+              },
+              {
+                "x": 371,
+                "y": 545
+              }
+            ]
+          },
+          "inferText": "198円",
+          "inferConfidence": 0.9957,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 424,
+                "y": 530
+              },
+              {
+                "x": 461,
+                "y": 530
+              },
+              {
+                "x": 461,
+                "y": 545
+              },
+              {
+                "x": 424,
+                "y": 545
+              }
+            ]
+          },
+          "inferText": "168円",
+          "inferConfidence": 0.9957,
+          "type": "NORMAL",
+          "lineBreak": true
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 149,
+                "y": 558
+              },
+              {
+                "x": 228,
+                "y": 558
+              },
+              {
+                "x": 228,
+                "y": 563
+              },
+              {
+                "x": 149,
+                "y": 563
+              }
+            ]
+          },
+          "inferText": "えていますが、万一にれの際に",
+          "inferConfidence": 0.7844,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 387,
+                "y": 558
+              },
+              {
+                "x": 400,
+                "y": 558
+              },
+              {
+                "x": 400,
+                "y": 562
+              },
+              {
+                "x": 387,
+                "y": 562
+              }
+            ]
+          },
+          "inferText": "くがっ",
+          "inferConfidence": 0.8845,
+          "type": "NORMAL",
+          "lineBreak": false
+        },
+        {
+          "valueType": "ALL",
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 546,
+                "y": 556
+              },
+              {
+                "x": 597,
+                "y": 556
+              },
+              {
+                "x": 597,
+                "y": 564
+              },
+              {
+                "x": 546,
+                "y": 564
+              }
+            ]
+          },
+          "inferText": "イラストはイメージで",
+          "inferConfidence": 0.9999,
+          "type": "NORMAL",
+          "lineBreak": true
+        }
+      ]
+    }
+  ]
+}
