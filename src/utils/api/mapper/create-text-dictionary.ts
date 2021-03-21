@@ -1,5 +1,6 @@
 import { ScannedImage, TextField } from '../processor/process-ocr'
 import translateKanji from '../translator/translate-kanji'
+import pLimit from 'p-limit'
 
 const MIN_TEXT_LENGTH = 3
 const MAX_TEXT_LENGTH = 10
@@ -18,15 +19,17 @@ export default async (images: ScannedImage[]): Promise<TextDictionary> => {
     }))
   ) // Extract properties necessary
 
+  const limit = pLimit(10)
+
   const b = await Promise.all(
-    a.map(async image => {
+    a.map(image => limit(async () => {
       const inferText = await translateKanji(image.inferText)
       console.log(`[Translate] ${image.inferText} → ${inferText}`)
       return {
         ...image,
         inferText,
       }
-    })
+    }))
   )
 
   return b
