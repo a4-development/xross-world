@@ -7,18 +7,21 @@ import Grid from '@material-ui/core/Grid'
 import Button from '@material-ui/core/Button'
 import Box from '@material-ui/core/Box'
 import PhotoCamera from '@material-ui/icons/PhotoCamera'
+import LinearProgress from '@material-ui/core/LinearProgress'
 
 import { ResponseBody as ImageUploadResponseBody } from './api/puzzle'
 import Puzzle from '../components/puzzle'
 
 const Home: NextPage = () => {
   const [data, setData] = useState<ImageUploadResponseBody>({})
+  const [loading, setLoading] = useState(false)
 
   const handleFileUpload = async (e: ChangeEvent) => {
     const file = (e.target as HTMLInputElement).files[0]
     if (!file) {
       return
     }
+    setLoading(true)
     const formData = new FormData()
     formData.append('file', file)
     try {
@@ -33,7 +36,9 @@ const Home: NextPage = () => {
       )
       setData(data)
     } catch (e) {
-      console.error(`[Error occured] ${e.message}`)
+      console.error(`[Error occurred] ${e.message}`)
+    } finally {
+      setLoading(false)
     }
   }
 
@@ -56,12 +61,18 @@ const Home: NextPage = () => {
             color="primary"
             component="span"
             startIcon={<PhotoCamera />}
+            disabled={loading}
           >
             画像のアップロード
           </Button>
         </label>
+        {loading && (
+          <Container style={{ margin: 16 }}>
+            <LinearProgress />
+          </Container>
+        )}
         <Box>
-          <img src={data.image} />
+          <img src={data.image} style={{ width: '100%' }} />
         </Box>
         <Puzzle data={data.data}></Puzzle>
       </Grid>
