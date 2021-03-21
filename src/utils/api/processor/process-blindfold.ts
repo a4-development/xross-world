@@ -21,7 +21,7 @@ export default (
     })
   }
 
-  sharp(buffer)
+  return sharp(buffer)
     .composite([
       {
         input: Buffer.from(`
@@ -31,7 +31,7 @@ export default (
         `),
       },
     ])
-    .toFile(`${DESTINATION}/${originalname}`)
+    .toBuffer()
 }
 
 // Like <polygon points="0,0 10,0 10,10 0,10" />

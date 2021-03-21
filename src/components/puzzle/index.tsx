@@ -1,18 +1,23 @@
 import React, { useState } from 'react'
 import { NextPage } from 'next'
-import styled from 'styled-components';
+import styled from 'styled-components'
 import Box from '@material-ui/core/Box'
 import IconButton from '@material-ui/core/IconButton'
-import VisibilityIcon from '@material-ui/icons/Visibility';
+import VisibilityIcon from '@material-ui/icons/Visibility'
 
 const TableWrapper = styled.div`
-  table, th, td {
+  table,
+  th,
+  td {
     border-collapse: collapse;
     border: 1px solid #333;
   }
 `
 
-const Cell = styled.td`
+const Cell = styled.td<{
+  block: boolean
+}>`
+  background-color: ${props => (props.block ? 'black' : 'white')};
   padding: 4px;
 `
 
@@ -30,21 +35,29 @@ const data = [
   {
     text: 'しこうさくご',
     direction: 'vertical',
-    head: { x: 3, y: 2 }
+    head: { x: 3, y: 2 },
   },
   {
     text: 'せいさく',
     direction: 'horizontal',
-    head: { x: 0, y: 6 }
-  }
+    head: { x: 0, y: 6 },
+  },
 ]
 
-const width = Math.max(...data.filter(d => d.direction === 'horizontal').map(d => d.head.x + d.text.length))
-const height = Math.max(...data.filter(d => d.direction === 'vertical').map(d => d.head.y + d.text.length))
+const width = Math.max(
+  ...data
+    .filter(d => d.direction === 'horizontal')
+    .map(d => d.head.x + d.text.length)
+)
+const height = Math.max(
+  ...data
+    .filter(d => d.direction === 'vertical')
+    .map(d => d.head.y + d.text.length)
+)
 
-const tableData: string[][] = new Array(width).fill('');
+const tableData: string[][] = new Array(width).fill('')
 tableData.forEach((_, i) => {
-  tableData[i] = new Array(height).fill('');
+  tableData[i] = new Array(height).fill('')
 })
 
 data.forEach(d => {
@@ -60,9 +73,9 @@ data.forEach(d => {
 
 console.log(tableData)
 
-const Puzzle: NextPage = () => {  
+const Puzzle: NextPage = () => {
   const [visibleTexts, setVisibleTexts] = useState(false)
-  
+
   return (
     <Box>
       <TableWrapper>
@@ -71,7 +84,7 @@ const Puzzle: NextPage = () => {
             {tableData.map((tr, i) => (
               <tr key={i}>
                 {tr.map((td, j) => (
-                  <Cell key={j}>
+                  <Cell key={j} block={td === ''}>
                     {visibleTexts ? td : ''}
                   </Cell>
                 ))}
@@ -81,7 +94,10 @@ const Puzzle: NextPage = () => {
         </table>
       </TableWrapper>
 
-      <IconButton aria-label="delete" onClick={() => setVisibleTexts(!visibleTexts)}>
+      <IconButton
+        aria-label="delete"
+        onClick={() => setVisibleTexts(!visibleTexts)}
+      >
         <VisibilityIcon />
       </IconButton>
     </Box>

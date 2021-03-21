@@ -43,9 +43,8 @@ const apiRoute = nextConnect()
         data => textDictionary[data.id].boundingPoly.vertices
       )
 
-      processBlindfold(blindfoldVertexes, file)
-
-      res.status(200).json(puzzleData)
+      const buffer = await processBlindfold(blindfoldVertexes, file)
+      res.status(200).json(`data:image/png;base64,${buffer.toString('base64')}`)
     } catch (e) {
       res.status(400).json({ message: e })
     }

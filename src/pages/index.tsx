@@ -1,14 +1,15 @@
 import React, { useState, ChangeEvent } from 'react'
 import { NextPage } from 'next'
 import axios from 'axios'
-import Container from '@material-ui/core/Container';
-import Typography from '@material-ui/core/Typography';
-import Grid from '@material-ui/core/Grid';
+import Container from '@material-ui/core/Container'
+import Typography from '@material-ui/core/Typography'
+import Grid from '@material-ui/core/Grid'
 import Button from '@material-ui/core/Button'
-import PhotoCamera from '@material-ui/icons/PhotoCamera';
+import Box from '@material-ui/core/Box'
+import PhotoCamera from '@material-ui/icons/PhotoCamera'
 
 import { ResponseBody as ImageUploadResponseBody } from './api/puzzle'
-import Puzzle from '../components/puzzle';
+import Puzzle from '../components/puzzle'
 
 const Home: NextPage = () => {
   const [textData, setTextData] = useState('')
@@ -43,24 +44,26 @@ const Home: NextPage = () => {
         <Typography variant="h4" component="h1" gutterBottom>
           クロスワードジェネレータ
         </Typography>
-          <input
-            type="file"
-            accept="image/jpg,image/png"
-            hidden
-            id="contained-button-file"
-            onChange={handleFileUpload}
-          />
-          <label htmlFor="contained-button-file">
-            <Button
-              variant="contained"
-              color="primary"
-              component="span"
-              startIcon={<PhotoCamera />}
-            >
-              画像のアップロード
-            </Button>
-          </label>
-        <p>{textData}</p>
+        <input
+          type="file"
+          accept="image/jpg,image/png"
+          hidden
+          id="contained-button-file"
+          onChange={handleFileUpload}
+        />
+        <label htmlFor="contained-button-file">
+          <Button
+            variant="contained"
+            color="primary"
+            component="span"
+            startIcon={<PhotoCamera />}
+          >
+            画像のアップロード
+          </Button>
+        </label>
+        <Box>
+          <img src={textData.replace(/^"(.*)"$/, '$1')} />
+        </Box>
         <Puzzle></Puzzle>
       </Grid>
     </Container>
