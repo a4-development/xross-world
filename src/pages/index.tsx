@@ -12,7 +12,7 @@ import { ResponseBody as ImageUploadResponseBody } from './api/puzzle'
 import Puzzle from '../components/puzzle'
 
 const Home: NextPage = () => {
-  const [textData, setTextData] = useState('')
+  const [data, setData] = useState<ImageUploadResponseBody>({})
 
   const handleFileUpload = async (e: ChangeEvent) => {
     const file = (e.target as HTMLInputElement).files[0]
@@ -31,8 +31,7 @@ const Home: NextPage = () => {
           },
         }
       )
-      setTextData(JSON.stringify(data))
-      // setTextData('✅ Succeed')
+      setData(data)
     } catch (e) {
       console.error(`[Error occured] ${e.message}`)
     }
@@ -62,9 +61,9 @@ const Home: NextPage = () => {
           </Button>
         </label>
         <Box>
-          <img src={textData.replace(/^"(.*)"$/, '$1')} />
+          <img src={data.image} />
         </Box>
-        <Puzzle></Puzzle>
+        <Puzzle data={data.data}></Puzzle>
       </Grid>
     </Container>
   )

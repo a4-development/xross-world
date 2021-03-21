@@ -4,6 +4,7 @@ import styled from 'styled-components'
 import Box from '@material-ui/core/Box'
 import IconButton from '@material-ui/core/IconButton'
 import VisibilityIcon from '@material-ui/icons/Visibility'
+import { createCrosswordWords } from 'crossword-generate'
 
 const TableWrapper = styled.div`
   table,
@@ -21,60 +22,43 @@ const Cell = styled.td<{
   padding: 4px;
 `
 
-const data = [
-  {
-    text: 'はっかそん',
-    direction: 'vertical',
-    head: { x: 0, y: 0 },
-  },
-  {
-    text: 'そーすこーど',
-    direction: 'horizontal',
-    head: { x: 0, y: 3 },
-  },
-  {
-    text: 'しこうさくご',
-    direction: 'vertical',
-    head: { x: 3, y: 2 },
-  },
-  {
-    text: 'せいさく',
-    direction: 'horizontal',
-    head: { x: 0, y: 6 },
-  },
-]
-
-const width = Math.max(
-  ...data
-    .filter(d => d.direction === 'horizontal')
-    .map(d => d.head.x + d.text.length)
-)
-const height = Math.max(
-  ...data
-    .filter(d => d.direction === 'vertical')
-    .map(d => d.head.y + d.text.length)
-)
-
-const tableData: string[][] = new Array(width).fill('')
-tableData.forEach((_, i) => {
-  tableData[i] = new Array(height).fill('')
-})
-
-data.forEach(d => {
-  for (let i = 0; i < d.text.length; i++) {
-    const char = d.text.charAt(i)
-    if (d.direction === 'horizontal') {
-      tableData[d.head.x + i][d.head.y] = char
-    } else {
-      tableData[d.head.x][d.head.y + i] = char
-    }
-  }
-})
-
-console.log(tableData)
-
-const Puzzle: NextPage = () => {
+const Puzzle: NextPage<{ data: ReturnType<typeof createCrosswordWords> }> = ({
+  data,
+}) => {
   const [visibleTexts, setVisibleTexts] = useState(false)
+
+  if (!data) {
+    return null
+  }
+
+  const width = Math.max(
+    ...data
+      .filter(d => d.direction === 'horizontal')
+      .map(d => d.head.x + d.text.length)
+  )
+  const height = Math.max(
+    ...data
+      .filter(d => d.direction === 'vertical')
+      .map(d => d.head.y + d.text.length)
+  )
+
+  console.log('width', width, 'height', height)
+
+  const tableData: string[][] = new Array(width).fill('')
+  tableData.forEach((_, i) => {
+    tableData[i] = new Array(height).fill('')
+  })
+
+  data.forEach(d => {
+    for (let i = 0; i < d.text.length; i++) {
+      const char = d.text.charAt(i)
+      if (d.direction === 'horizontal') {
+        tableData[d.head.x + i][d.head.y] = char
+      } else {
+        tableData[d.head.x][d.head.y + i] = char
+      }
+    }
+  })
 
   return (
     <Box>

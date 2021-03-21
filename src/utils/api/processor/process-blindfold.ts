@@ -4,10 +4,7 @@ import sharp from 'sharp'
 import { Vertex } from './process-ocr'
 
 // TODO: Process multi images (multi EmbeddedImage and multi Express.Multer.File)
-export default (
-  vertexesList: Vertex[][],
-  { buffer }: Express.Multer.File
-) => {
+export default (vertexesList: Vertex[][], { buffer }: Express.Multer.File) => {
   const { width, height } = sizeOf(buffer)
 
   return sharp(buffer)

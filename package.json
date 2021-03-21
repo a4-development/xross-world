@@ -13,6 +13,7 @@
     "@material-ui/icons": "^4.11.2",
     "axios": "^0.21.1",
     "buffer-image-size": "^0.6.4",
+    "crossword-generate": "git+ssh://git@github.com/a4-development/crossword-generate.git#2fa2eb0c92374e77ba0673111a8eec6bd98f4413",
     "material-ui-dropzone": "^3.5.0",
     "multer": "^1.4.2",
     "next": "10.0.9",
