@@ -19,12 +19,13 @@ export default async (images: ScannedImage[]): Promise<TextDictionary> => {
     }))
   ) // Extract properties necessary
 
-  const limit = pLimit(10)
+  const limit = pLimit(1)
 
   const b = await Promise.all(
     a.map(image => limit(async () => {
       const inferText = await translateKanji(image.inferText)
       console.log(`[Translate] ${image.inferText} → ${inferText}`)
+      await new Promise(resolve => setTimeout(resolve, 300))
       return {
         ...image,
         inferText,
