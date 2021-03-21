@@ -28,7 +28,8 @@ const apiRoute = nextConnect()
       console.log('✅ OCR process succeeded')
 
       const { images } = data
-      const textDictionary = createTextDictionary(images as any)
+      const textDictionary = await createTextDictionary(images)
+      console.log(textDictionary)
 
       const recipe = Object.entries(textDictionary).map(
         ([key, value]): BaseWord => ({
