@@ -36,16 +36,15 @@ const apiRoute = nextConnect()
       }
       const puzzleData = Object.keys(textDictionary)
         .slice(0, 20)
-        .map((t, i) => ({ ...dummyData, id: i }))
+        .map((_, i) => ({ ...dummyData, id: i }))
       /** End of TODO */
 
       const blindfoldVertexes = puzzleData.map(
         data => textDictionary[data.id].boundingPoly.vertices
       )
 
-      processBlindfold(blindfoldVertexes, file)
-
-      res.status(200).json(data)
+      const buffer = await processBlindfold(blindfoldVertexes, file)
+      res.status(200).json(`data:image/png;base64,${buffer.toString('base64')}`)
     } catch (e) {
       res.status(400).json({ message: e })
     }
