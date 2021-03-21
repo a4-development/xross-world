@@ -13,6 +13,7 @@ const TableWrapper = styled.div`
     border-collapse: collapse;
     border: 1px solid #333;
   }
+  overflow-x: scroll;
 `
 
 const Cell = styled.td<{
